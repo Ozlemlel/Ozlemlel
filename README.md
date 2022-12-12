@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ozlemlel
-- 👀 I’m interested in NGS Data Analysis
+- 👀 I’m interested in Machine Learning applications in Biotechnology
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
