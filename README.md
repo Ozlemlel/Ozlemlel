@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ozlemlel
-- 👀 I’m interested in Machine Learning applications in Biotechnology
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Computational Neuroscience a
+- 🌱 I’m currently learning Python and Machine Learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me ozlem1salman@gmail.com
 
 <!---
 Ozlemlel/Ozlemlel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
