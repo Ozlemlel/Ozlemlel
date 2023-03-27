@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ozlemlel
-- 👀 I’m interested in Computational Neuroscience a
+- 👀 I’m interested in Computational Neuroscience
 - 🌱 I’m currently learning Python and Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ozlem1salman@gmail.com
